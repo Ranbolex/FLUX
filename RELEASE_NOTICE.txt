@@ -1,0 +1,8 @@
+ANONYMOUS FLUX ALGORITHM CORE
+
+Source code is supplied for research inspection and reproduction.
+Author identity and historical experiment records are excluded.
+
+This package does not introduce a blanket open-source license or override
+any third-party rights. Confirm applicable rights before public redistribution
+under a named open-source license.
